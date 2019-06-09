@@ -1,2 +1,2 @@
 # minemeld
-Minemeld http file for non verification certificate
+Minemeld http.py file for not verify certificates. You can import this python file to ...
